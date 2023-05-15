@@ -19,4 +19,5 @@ function HelloWorld(hour) {
       else
         document.write("Hello, World!");
     } 
-  }
+}
+console.log(HelloWorld());
