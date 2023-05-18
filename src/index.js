@@ -20,4 +20,5 @@ function HelloWorld(hour) {
         document.write("Hello, World!");
     } 
 }
+console.log('after error');
 console.log(HelloWorld());
