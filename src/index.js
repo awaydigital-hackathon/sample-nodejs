@@ -21,4 +21,4 @@ function HelloWorld(hour) {
     } 
 }
 console.log('after error');
-console.log(HelloWorld());
+// console.log(HelloWorld());
